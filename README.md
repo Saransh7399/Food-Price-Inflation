@@ -1,7 +1,3 @@
-Here is a complete README file based on your project description, including dataset details, workflow, findings, and dashboard information.
-
----
-
 # Food Price Inflation Prediction with Machine Learning and Plotly Dashboard
 
 ## Project Overview
